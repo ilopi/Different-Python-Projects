@@ -1,4 +1,4 @@
-# Concatenar cadenas de caracteres.
+# Concatenar cadenas de caracteres
 
 organizacion = "42"
 
