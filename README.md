@@ -14,7 +14,7 @@ El juego de Mad Libs es un programa interactivo que pide al usuario diferentes t
 - Uso de estructuras básicas de Python como cadenas, listas y la función `input()`.
 
 **Archivos Principales:**
-- `mad_libs_game.py`: Contiene la lógica principal del juego Mad Libs.
+- `app.py`: Contiene la lógica principal del juego Mad Libs.
 
 ## Proyectos Futuros
 
