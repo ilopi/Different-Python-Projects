@@ -29,6 +29,20 @@ Este es un juego interactivo en el que el usuario debe adivinar un número gener
 **Archivos Principales:**
 - `guess_the_number.py`: Contiene la lógica principal del juego Guess the Number.
 
+### Guess the Number PC
+
+**Descripción:**
+Este es un juego interactivo en el que la computadora intenta adivinar un número pensado por el usuario dentro de un rango especificado.
+
+**Características:**
+- Interfaz de línea de comandos que permite al usuario proporcionar retroalimentación a la computadora sobre si su predicción es demasiado alta, baja o correcta.
+- La computadora ajusta sus predicciones basándose en la retroalimentación del usuario hasta adivinar el número correcto.
+- Utiliza la biblioteca `random` de Python para generar predicciones aleatorias dentro de un rango dinámico.
+
+**Archivos Principales:**
+- `guess_the_number_pc.py`: Contiene la lógica principal del juego Guess the Number PC.
+
+
 ## Proyectos Futuros
 
 Próximamente
