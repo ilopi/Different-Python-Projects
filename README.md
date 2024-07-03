@@ -3,7 +3,7 @@ Este repositorio contiene una colección de diferentes proyectos desarrollados e
 
 ## Proyectos
 
-### Mad Libs Game
+### :balloon: Mad Libs Game
 
 **Descripción:**
 El juego de Mad Libs es un programa interactivo que pide al usuario diferentes tipos de palabras (sustantivos, verbos, adjetivos, etc.) y las inserta en una historia predefinida, pudiendo crear resultados graciosos.
@@ -29,7 +29,7 @@ Este es un juego interactivo en el que el usuario debe adivinar un número gener
 **Archivos Principales:**
 - `guess_the_number.py`: Contiene la lógica principal del juego Guess the Number.
 
-### Guess the Number PC
+### :computer: Guess the Number PC
 
 **Descripción:**
 Este es un juego interactivo en el que la computadora intenta adivinar un número pensado por el usuario dentro de un rango especificado.
@@ -42,7 +42,7 @@ Este es un juego interactivo en el que la computadora intenta adivinar un númer
 **Archivos Principales:**
 - `guess_the_number_pc.py`: Contiene la lógica principal del juego Guess the Number PC.
 
-### Scissors-Paper-Rock
+### :scissors: Scissors-Paper-Rock
 
 **Descripción:**
 Este es un juego clásico de "Piedra, Papel o Tijeras" en el que el usuario juega contra la computadora.
