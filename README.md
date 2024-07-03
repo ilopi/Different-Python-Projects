@@ -16,7 +16,7 @@ El juego de Mad Libs es un programa interactivo que pide al usuario diferentes t
 **Archivos Principales:**
 - `app.py`: Contiene la lógica principal del juego Mad Libs.
 
-### Guess the Number Game
+### :crystal_ball: Guess the Number Game
 
 **Descripción:**
 Este es un juego interactivo en el que el usuario debe adivinar un número generado aleatoriamente por la computadora dentro de un rango especificado.
@@ -42,6 +42,22 @@ Este es un juego interactivo en el que la computadora intenta adivinar un númer
 **Archivos Principales:**
 - `guess_the_number_pc.py`: Contiene la lógica principal del juego Guess the Number PC.
 
+### Scissors-Paper-Rock
+
+**Descripción:**
+Este es un juego clásico de "Piedra, Papel o Tijeras" en el que el usuario juega contra la computadora.
+
+**Características:**
+- Interfaz de línea de comandos que permite al usuario elegir entre piedra, papel o tijeras.
+- La computadora elige aleatoriamente entre las tres opciones.
+- Determina el ganador basándose en las reglas clásicas del juego:
+  - Piedra gana a Tijeras.
+  - Tijeras gana a Papel.
+  - Papel gana a Piedra.
+- Informa al usuario si ganó, perdió o empató contra la computadora.
+
+**Archivos Principales:**
+- `scissors-paper-rock.py`: Contiene la lógica principal del juego Scissors-Paper-Rock.
 
 ## Proyectos Futuros
 
